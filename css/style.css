@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.JACKET-card-footer{
+    background-color: white;
+    border: 0ch;
+}
+
+.orange-bg{
+   
+    background-color: #FFFBF0;
+}
+.penguin-button {
+    background-color: #A4BC46;
+}
+.penguin-navbar img {
+    width: 250px;
+}
+.JACKET-card{
+    border: 0ch;
+    border-radius: 20px;
+}
